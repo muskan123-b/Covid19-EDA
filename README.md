@@ -11,7 +11,7 @@ The COVID-19 pandemic in India is a part of the worldwide pandemic of coronaviru
 3. **covid_vaccine_statewise.csv** file contains data on the vaccination situation.
 4. **states_india.geojson** json file which contains latitute and lonngitude of various states and union territories along with their non-spatial attributes (id, name, etc) for use in Plotly Choropleth maps. (SOURCE: https://un-mapped.carto.com/tables/states_india/public)
 
-**Note:** The covid_EDA.zip contains .ipynb file
+**Note:** Download the covid_EDA.zip to see .ipynb file.
 
 ## Conclusion:
 We all can see how this COVID-19 pandemic has turned the nation upside down. There is an emergent loss of human life at one end and on the other hand, people are losing their jobs and businesses are shutting down. In such a tough time, what we all need to do is come together to fight against this pandemic. As they said, “Where there is Unity there is always Victory” – this is the power of staying united.
