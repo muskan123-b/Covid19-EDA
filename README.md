@@ -1,8 +1,6 @@
 # Covid 19 in India
 The COVID-19 pandemic in India is a part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). As of 20 January 2022, according to official figures, India has the second-highest number of confirmed cases in the world (after the United States of America) with 39,543,328 reported cases of COVID-19 infection and the third-highest number of COVID-19 deaths (after the United States and Brazil) at 489,848 deaths. However these figures exhibit severe under-reporting.
 
-#### This project aims to perform exploratory data analysis on India's Covid-19 Situation.
-
 <img src="https://user-images.githubusercontent.com/73715927/151403319-e5890ae2-b029-4870-ae13-0a7a941a91f0.png" width=70% height=40%>
 
 ## Sources of datasets used:
