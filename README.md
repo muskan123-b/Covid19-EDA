@@ -1,6 +1,12 @@
-# About COVID-19
-Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first known case was identified in Wuhan, China, in December 2019. The disease has since spread worldwide, leading to an ongoing pandemic. It took 67 days (∼7th march) to infect 1 lakh people from COVID-19, an additional 12 days (∼19th March) to infiltrate further 1 lakh and with a third invasion taking only 4 days (∼23rd March), indicating SARS-CoV-2 to be a highly transmissive type virus. COVID-19 not only killed people through virus incursion but also due to economic and mental collapse, where developing countries suffered from unemployment and hunger. India enforced 68 days of four-phased-lockdown starting from 24th March ∼31st May to deal with COVID-19.
+# Covid 19 in India
+The COVID-19 pandemic in India is a part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). As of 20 January 2022, according to official figures, India has the second-highest number of confirmed cases in the world (after the United States of America) with 39,543,328 reported cases of COVID-19 infection and the third-highest number of COVID-19 deaths (after the United States and Brazil) at 489,848 deaths. However these figures exhibit severe under-reporting.
 
-This project aims to perform exploratory data analysis on India's Covid-19 Situation.
+#### This project aims to perform exploratory data analysis on India's Covid-19 Situation.
 
 <img src="https://user-images.githubusercontent.com/73715927/151403319-e5890ae2-b029-4870-ae13-0a7a941a91f0.png" width=70% height=40%>
+
+# Sources of datasets used:
+1. **covid_19_india.csv** file contains the COVID-19 cases at daily level. (SOURCE:https://www.kaggle.com/sudalairajkumar/covid19-in-india)
+2. **StatewiseTestingDetails.csv** file contains the Statewise testing details.
+3. **covid_vaccine_statewise.csv** file contains data on the vaccination situation.
+4. **states_india.geojson** json file which contains latitute and lonngitude of various states and union territories along with their non-spatial attributes (id, name, etc) for use in Plotly Choropleth maps. (SOURCE:https://un-mapped.carto.com/tables/states_india/public)
