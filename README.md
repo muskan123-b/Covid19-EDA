@@ -3,4 +3,4 @@ Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acu
 
 This project aims to perform exploratory data analysis on India's Covid-19 Situation.
 
-<img src="https://user-images.githubusercontent.com/73715927/151403319-e5890ae2-b029-4870-ae13-0a7a941a91f0.png" width=70% height=40%>
+<img src="https://user-images.githubusercontent.com/73715927/151403319-e5890ae2-b029-4870-ae13-0a7a941a91f0.png" width=70% height=30%>
